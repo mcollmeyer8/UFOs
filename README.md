@@ -16,3 +16,9 @@ Here is a screen shot of all of the filter options
 
 
 ## Summary
+In summary, I believe this is a great start on our UFO Sighting website.
+As we continue to develop the site, a few things I think we should add are:
+- Data for years since 2010
+- Links to credible UFO sighting websites
+- Images of UFO sightings
+- A map of UFO sightings broken down by year, city, state, country or shape
